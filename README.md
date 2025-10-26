@@ -7,7 +7,7 @@ Em um cenário onde grande parte do público leitor migra para plataformas onlin
 
 A proposta integra conhecimentos técnicos de **desenvolvimento front-end** com um propósito cultural: promover a **difusão da literatura**, incentivar o **hábito da leitura** e ampliar o acesso a conteúdos literários de forma moderna e responsiva.
 
-LINK DA PAGINA : 
+LINK DA PAGINA : https://luciane-finamor.github.io/atividade1outubro/
 ---
 
 ## 🎯 Objetivo Geral
